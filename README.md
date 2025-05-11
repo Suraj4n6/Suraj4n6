@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Sai Suraj R</h1>
 <h3 align="center">Aspiring Software & AI Engineer</h3>
 
